@@ -2,11 +2,11 @@ from github import Github
 import os
 import subprocess
 
-github_username = 'gani-23'
+github_username = 'SAITEJGIT'
 github_password = "Password"
 
-repository_owner = 'gani-23'
-repository_name = 'testing'
+repository_owner = 'SAITEJGIT'
+repository_name = 'CICDTask'
 
 local_repo_path = os.path.join(os.path.dirname(__file__), repository_name)
 
